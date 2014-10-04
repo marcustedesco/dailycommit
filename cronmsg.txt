@@ -1,3 +1,0 @@
-[master 7d204cc] Sat Oct  4 21:13:01 UTC 2014
- 1 file changed, 1 insertion(+), 1 deletion(-)
-Branch master set up to track remote branch master from origin.
